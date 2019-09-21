@@ -1,0 +1,2 @@
+# photosWall
+display photos
